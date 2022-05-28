@@ -1,10 +1,21 @@
-### Hi 👋, I'm Gustavo Guedes
+## Olá, Eu sou o Gustavo Guedes
+<div align="center">
+  <a href="https://github.com/JoseFreitass">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseFreitass&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseFreitass&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Jose-s" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Jose-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Jose-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Jose-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Jose-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-I'm a Web developer, currently focused on the ServiceNow platform.<br/>
-In my personal projects I'm working with NextJS and NestJS.
-
-<b> 🤝To connect with me</b>
-<p align = "center">
-
-[<img src="https://img.shields.io/badge/-LINKEDIN-black" />](https://www.linkedin.com/in/gustavo-guedes-teixeira-1770981b4/)
-[<img src="https://img.shields.io/badge/-StackOverflow-black" />](https://stackoverflow.com/users/11940821/gustavo-guedes-teixeira?tab=profile)
+  
+  ##
+ 
+<div> 
+  <a href = "mailto:guguedes00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gustavo-guedes-teixeira-1770981b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
